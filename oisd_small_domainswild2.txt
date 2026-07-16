@@ -3465,7 +3465,6 @@ adimages.rtvdrenthe.nl
 adimages.sniffies.com
 adimg.com.com
 adimg.liba.com
-adimg.uve.weibo.com
 adimg1.chosun.com
 adimgs.sapo.pt
 adimpact.com
@@ -9190,7 +9189,6 @@ boostcpm.su
 booster-vax.com
 boothmythevergreen.com
 bootingunpickedusable.com
-bootpreload.uve.weibo.com
 bootscritp.com
 bootstraplugin.com
 bootyregisteredcleared.com
@@ -14796,7 +14794,6 @@ data741.click
 data852.click
 data963.click
 databoilrecommendation.com
-datacollection.uve.weibo.com
 datacollector-dra.dt.hicloud.com
 datacollector-drru.dt.dbankcloud.ru
 datacygnal.io
@@ -41402,7 +41399,6 @@ sdk.optimove.net
 sdk.starbolt.io
 sdk4push.com
 sdkapi-prod.dfinery.ai
-sdkapp.uve.weibo.com
 sdkauth.hpplay.cn
 sdkc.vervegroupinc.net
 sdkconf.avlyun.com
@@ -49097,6 +49093,7 @@ uuxwydleeeqdg.online
 uv.terra.com.br
 uvbiyrhzsqcoq.space
 uvd9re60w.com
+uve.weibo.com
 uveitisabaffingine.cyou
 uvfckyovekkqh.space
 uvhmsovvhfdzo.site
