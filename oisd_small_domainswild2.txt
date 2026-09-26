@@ -15180,6 +15180,7 @@ data-ingestion.flowgpt.com
 data-lake-api.internet.apps.samsung.com
 data-optout-service.uca.cloud.unity3d.com
 data-px.services
+data-www-weaver.wanted.co.kr
 data.adwombat.com
 data.artistchai.co.kr
 data.bangtubevideos.com
