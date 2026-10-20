@@ -4843,7 +4843,6 @@ adserve.bongocdn.com
 adserve.donanimhaber.com
 adserve.lasentinelle.mu
 adserve.ph
-adserver.43plc.com
 adserver.71i.de
 adserver.a24.com.tr
 adserver.adultfriendfinder.com
@@ -8426,7 +8425,6 @@ azzoyintccazv.online
 azzulqlecucki.space
 b-1st.com
 b-m.xyz
-b-short.link
 b-sing.com
 b.72ckgctit6mngwqbbo2ln.cyou
 b.bedop.com
@@ -16974,7 +16972,6 @@ dog.streameon.com
 dog89nqcp3al4.cloudfront.net
 dogcbhkupqzor.website
 doghalf.com
-dogt.xyz
 doh.cq0.co
 dohaunting.com
 dohxgyjobgzfb.website
@@ -36956,7 +36953,6 @@ pjdjlrmelqxzh.site
 pjdpsycbcmdns.website
 pjfddwmshnaee.online
 pjivecsgaqoip.website
-pjkyxrd15e.ru
 pjnzvzinwwnvn.site
 pjoqdgncunzlk.online
 pjovytymn.com
@@ -38309,7 +38305,6 @@ pulpirdiditsi.site
 pulpyads.com
 pulpybizarre.com
 pulqueemesa.com
-pulquesfarinas.guru
 pulse.ftools.fluege.de
 pulse.neurostreamlink10.cfd
 pulse.perfmetrics.netflix.com
